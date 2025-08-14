@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I’m Luis Felipe Martínez, better known as Kispat, and I build worlds in video games and solutions in Python
 
 <!--
 **Kispatiznui/Kispatiznui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
