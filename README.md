@@ -14,6 +14,8 @@ Colombia
 
 ##  Featured Projects
 
+
+###  The Adaptive World Generation System (AWGS) is a system designed to generate, evolve, and maintain persistent worlds based on relational logic, contextual memory, and dynamic rule generation.
 ###  File Organizer
 A Python tool to automate file organization using CLI and JSON configuration.
 
