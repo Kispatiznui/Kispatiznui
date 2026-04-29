@@ -24,14 +24,14 @@ A Python tool to automate file organization using CLI and JSON configuration.
 
  - Automate repetitive tasks and improve productivity
  - Python, operating system, JSON
- - Repository: https://github.com/YOUR-USERNAME/file-organizer
+ - Repository: https://github.com/Kispatiznui/file-organizer
 
    
 ### 🔸 User API (Flask)
 REST API for user management with CRUD operations and data validation.
 
 Flask, JSON
-Repository: https://github.com/YOUR-USERNAME/flask-user-api
+Repository: https://github.com/Kispatiznui/flask-user-api
 
 ---
 
