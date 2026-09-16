@@ -123,8 +123,7 @@ My previous technical education includes training in agricultural production, co
 
 ## Contact
 
-LinkedIn:www.linkedin.com/in/
-luis-felipe-martinez-637605316
+LinkedIn:www.linkedin.com/in/luis-felipe-martinez-637605316
 
 GitHub: https://github.com/Kispatiznui
 
